@@ -24,4 +24,6 @@ form input, form textarea, form button {
     width: 100%;
     max-width: 300px;
 }
+<head>: <link rel="stylesheet" href="style.css">.
+
 
